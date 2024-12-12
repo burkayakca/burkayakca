@@ -2,11 +2,10 @@
 <img src="banner.png" ></img>
 </p>
 
-# 🌟 Hi there! I’m **Ali Burkay**, an aspiring developer passionate about creating impactful software solutions.  
-
 
 ## 🖥️ About Me  
 
+- 🌟I’m **Ali Burkay**, an aspiring developer passionate about creating impactful software solutions.  
 - 💻 **Full-Stack Developer in Training**: Currently enhancing my skills in Python and web development.  
 - 🌱 Continuously learning, experimenting, and building projects.  
 
