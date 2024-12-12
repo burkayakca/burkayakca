@@ -20,7 +20,7 @@ Here’s a selection of what I’m working on:
   A fun and interactive number guessing game built with Python.*
 
 - 📚 **[LibraryManagement](https://github.com/burkayakca/LibraryManagement)**  
-  A Python-based program to streamline library management.* **
+  A Python-based program to streamline library management.**
 
 - 🌐 **[burkayakca.github.io](https://github.com/burkayakca/burkayakca.github.io)**  
   My personal portfolio website – currently under construction! 
@@ -28,8 +28,10 @@ Here’s a selection of what I’m working on:
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
   A Python tool to create intuitive sliders for visual comparisons.*  
 
-* These repos provide User interfaces in **Turkish** but they can be easily translated into any language with the help of AI 
-** English documentation provided
+<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily implemented into any language with the help of AI.</p>
+    
+<p>**Turkish UI. English documentation included</p>
+
 ---
 
 ## 📊 Contributions  
