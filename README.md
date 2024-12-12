@@ -28,8 +28,8 @@ Here’s a selection of what I’m working on:
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
   A Python tool to create intuitive sliders for visual comparisons.*  
 
-*These repos provide User interfaces in **Turkish** but they can be easily translated into any language with the help of AI 
-**English documentation provided
+* These repos provide User interfaces in **Turkish** but they can be easily translated into any language with the help of AI 
+** English documentation provided
 ---
 
 ## 📊 Contributions  
