@@ -25,7 +25,7 @@ Here’s a selection of what I’m working on:
   My personal portfolio website – currently under construction! 
 
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
-  A Python tool to create intuitive sliders for visual comparisons.*  
+  A Python tool to create intuitive sliders for visual comparisons.**  
 
 <p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily implemented into any language with the help of AI.</p>
     
