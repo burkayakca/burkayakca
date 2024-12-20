@@ -15,7 +15,7 @@
 
 Here’s a selection of what I’m working on:  
 
-- 🎮 **[Python-Say-tahmin-oyunu](https://github.com/burkayakca/Python-Say-tahmin-oyunu)**  
+- 🎮 **[pythonGuessingGame](https://github.com/burkayakca/pythonGuessingGame)**  
   A fun and interactive number guessing game built with Python.*
 
 - 📚 **[LibraryManagement](https://github.com/burkayakca/LibraryManagement)**  
