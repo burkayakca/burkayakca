@@ -27,7 +27,7 @@ Here’s a selection of what I’m working on:
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
   A Python tool to create intuitive sliders for visual comparisons.**  
 
-<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily implemented into any language with the help of AI.</p>
+<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily translated into any language with the help of AI.</p>
     
 <p>**Turkish UI. English documentation included</p>
 
