@@ -17,7 +17,7 @@
 
 Here’s a selection of what I’m working on:  
 
-- 🎮 **[Python-Say-tahmin-oyunu](https://github.com/burkayakca/Python-Say-tahmin-oyunu)**  
+- 🎮 **[pythonGuessingGame](https://github.com/burkayakca/pythonGuessingGame)**  
   A fun and interactive number guessing game built with Python.*
 
 - 📚 **[LibraryManagement](https://github.com/burkayakca/LibraryManagement)**  
@@ -27,9 +27,9 @@ Here’s a selection of what I’m working on:
   My personal portfolio website – currently under construction! 
 
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
-  A Python tool to create intuitive sliders for visual comparisons.*  
+  A Python tool to create intuitive sliders for visual comparisons.**  
 
-<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily implemented into any language with the help of AI.</p>
+<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily translated into any language with the help of AI.</p>
     
 <p>**Turkish UI. English documentation included</p>
 
