@@ -14,14 +14,11 @@
 
 Here’s a selection of what I’m working on:  
 
-- 🎮 **[pythonGuessingGame](https://github.com/burkayakca/pythonGuessingGame)**  
-  A fun and interactive number guessing game built with Python.*
+- ⛩️ **[AiKanjiDictionary](https://github.com/burkayakca/AiKanjiDictionaryApp) 🆕** <br>
+  A React app that serves as an AI-powered Kanji dictionary
 
 - 📚 **[LibraryManagement](https://github.com/burkayakca/LibraryManagement)**  
   A Python-based program to streamline library management.**
-
-- 🌐 **[burkayakca.github.io](https://github.com/burkayakca/burkayakca.github.io)**  
-  My personal portfolio website – currently under construction! 
 
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
   A Python tool to create intuitive sliders for visual comparisons.**  
