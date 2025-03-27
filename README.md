@@ -15,17 +15,15 @@
 Here’s a selection of what I’m working on:  
 
 - ⛩️ **[AiKanjiDictionary](https://github.com/burkayakca/AiKanjiDictionaryApp) 🆕** <br>
-  A React app that serves as an AI-powered Kanji dictionary.***
+  A React app that serves as an AI-powered Kanji dictionary.**
 
 - 📚 **[LibraryManagement](https://github.com/burkayakca/LibraryManagement)**  
-  A Python-based program to streamline library management.**
+  A Python-based program to streamline library management.*
 
 - 🖼️ **[VisualComparisonSliderCreator](https://github.com/burkayakca/VisualComparisonSliderCreator)**  
-  A Python tool to create intuitive sliders for visual comparisons.**  
-
-<p>* These repos provide User interfaces in <bold>Turkish</bold> but can be easily translated into any language with the help of AI.</p>
+  A Python tool to create intuitive sliders for visual comparisons.*
     
-<p>**Turkish UI. English documentation included</p>
+<p>*Turkish UI. English documentation included</p>
 
 <p>***Bilingual. Turkish and English versions can be accessed through seperate branches</p>
 
