@@ -25,7 +25,7 @@ Here’s a selection of what I’m working on:
     
 <p>*Turkish UI. English documentation included</p>
 
-<p>***Bilingual. Turkish and English versions can be accessed through seperate branches</p>
+<p>**Bilingual. Turkish and English</p>
 
 <h2> 🔨 Tech Stack </h2>
 
